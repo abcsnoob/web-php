@@ -84,7 +84,7 @@ $QA_RELEASES = [
         ],
     ],
 
-    '8.5.3' => [
+    '8.5.4' => [
         'active'  => true,
         'release' => [
             'type'       => 'RC',
@@ -92,8 +92,8 @@ $QA_RELEASES = [
             'sha256_bz2' => '',
             'sha256_gz'  => '',
             'sha256_xz'  => '',
-            'date'       => '29 Jan 2026',
-            'baseurl'    => 'https://downloads.php.net/~edorian/',
+            'date'       => '26 Feb 2026',
+            'baseurl'    => 'https://downloads.php.net/~daniels/',
         ],
     ],
 ];
